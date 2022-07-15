@@ -128,7 +128,7 @@ body{
     .card-image{
         background-image: url(../images/image-product-desktop.jpg);
         border-radius: .5rem 0 0 .5rem;
-        height: auto;
+        height: 450px;
     }
     .card-text span{
         margin-top: 2rem;
