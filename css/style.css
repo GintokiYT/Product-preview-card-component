@@ -121,6 +121,7 @@ body{
         max-width: 600px;
         grid-template-columns: repeat(2, 1fr);
         gap: 0;
+        border-radius: .5rem;
     }
     .card-text{
         width: 80%;
